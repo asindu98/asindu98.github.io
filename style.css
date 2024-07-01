@@ -356,7 +356,6 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
-  display: flex;
   position: relative;
 }
 
